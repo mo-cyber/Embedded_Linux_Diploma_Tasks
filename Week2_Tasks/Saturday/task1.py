@@ -1,0 +1,6 @@
+f = open("textfile.txt", "w")
+f.write("line 1\nline 2\nline 3\nline4")
+f.close()
+f = open("textfile.txt", "r")
+lst = f.readlines()
+print("Number of lines = ", len(lst))
