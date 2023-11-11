@@ -1,0 +1,3 @@
+/home/mido/Embedded Linux Diploma/3- Linux/02_Shell Tasks/my_library/build/CMakeFiles/my_library.dir
+/home/mido/Embedded Linux Diploma/3- Linux/02_Shell Tasks/my_library/build/CMakeFiles/edit_cache.dir
+/home/mido/Embedded Linux Diploma/3- Linux/02_Shell Tasks/my_library/build/CMakeFiles/rebuild_cache.dir

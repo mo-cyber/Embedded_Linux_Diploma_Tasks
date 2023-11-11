@@ -1,0 +1,8 @@
+Emial RE: '\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,4}\b'
+mo.abdelnaby@nu.edu.eg
+me1556011@gmail.com
+me1556011@outlook.com
+Phone No. RE: '\b^01[0-2][0-9]{8}$\b'
+01003667700
+01001755178
+01006689777
